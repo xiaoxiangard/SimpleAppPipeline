@@ -1,0 +1,4 @@
+2023-02-04 22:14:28 [INFO] driver为:None (app.py:22)
+2023-02-04 22:14:38 [INFO] BVT test is started! (test_bvt.py:25)
+2023-02-04 22:14:40 [INFO] 定位符:xpath, 定位表达式: //android.widget.Button[contains(@resource-id,"id/trackEventButton")] (base_page.py:17)
+2023-02-04 22:14:40 [INFO] The record event button is exist - True (test_bvt.py:27)
